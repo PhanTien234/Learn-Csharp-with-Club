@@ -1,0 +1,16 @@
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\Bài tập String\bin\Debug\net5.0\Bài tập String.exe
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\Bài tập String\bin\Debug\net5.0\Bài tập String.deps.json
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\Bài tập String\bin\Debug\net5.0\Bài tập String.runtimeconfig.json
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\Bài tập String\bin\Debug\net5.0\Bài tập String.runtimeconfig.dev.json
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\Bài tập String\bin\Debug\net5.0\Bài tập String.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\Bài tập String\bin\Debug\net5.0\ref\Bài tập String.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\Bài tập String\bin\Debug\net5.0\Bài tập String.pdb
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\Bài tập String\obj\Debug\net5.0\Bài tập String.csproj.AssemblyReference.cache
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\Bài tập String\obj\Debug\net5.0\Bài tập String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\Bài tập String\obj\Debug\net5.0\Bài tập String.AssemblyInfoInputs.cache
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\Bài tập String\obj\Debug\net5.0\Bài tập String.AssemblyInfo.cs
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\Bài tập String\obj\Debug\net5.0\Bài tập String.csproj.CoreCompileInputs.cache
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\Bài tập String\obj\Debug\net5.0\Bài tập String.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\Bài tập String\obj\Debug\net5.0\ref\Bài tập String.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\Bài tập String\obj\Debug\net5.0\Bài tập String.pdb
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\Bài tập String\obj\Debug\net5.0\Bài tập String.genruntimeconfig.cache

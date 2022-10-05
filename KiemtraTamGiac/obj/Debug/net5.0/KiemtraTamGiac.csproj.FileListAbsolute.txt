@@ -1,0 +1,16 @@
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\KiemtraTamGiac\bin\Debug\net5.0\KiemtraTamGiac.exe
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\KiemtraTamGiac\bin\Debug\net5.0\KiemtraTamGiac.deps.json
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\KiemtraTamGiac\bin\Debug\net5.0\KiemtraTamGiac.runtimeconfig.json
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\KiemtraTamGiac\bin\Debug\net5.0\KiemtraTamGiac.runtimeconfig.dev.json
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\KiemtraTamGiac\bin\Debug\net5.0\KiemtraTamGiac.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\KiemtraTamGiac\bin\Debug\net5.0\ref\KiemtraTamGiac.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\KiemtraTamGiac\bin\Debug\net5.0\KiemtraTamGiac.pdb
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\KiemtraTamGiac\obj\Debug\net5.0\KiemtraTamGiac.csproj.AssemblyReference.cache
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\KiemtraTamGiac\obj\Debug\net5.0\KiemtraTamGiac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\KiemtraTamGiac\obj\Debug\net5.0\KiemtraTamGiac.AssemblyInfoInputs.cache
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\KiemtraTamGiac\obj\Debug\net5.0\KiemtraTamGiac.AssemblyInfo.cs
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\KiemtraTamGiac\obj\Debug\net5.0\KiemtraTamGiac.csproj.CoreCompileInputs.cache
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\KiemtraTamGiac\obj\Debug\net5.0\KiemtraTamGiac.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\KiemtraTamGiac\obj\Debug\net5.0\ref\KiemtraTamGiac.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\KiemtraTamGiac\obj\Debug\net5.0\KiemtraTamGiac.pdb
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\KiemtraTamGiac\obj\Debug\net5.0\KiemtraTamGiac.genruntimeconfig.cache

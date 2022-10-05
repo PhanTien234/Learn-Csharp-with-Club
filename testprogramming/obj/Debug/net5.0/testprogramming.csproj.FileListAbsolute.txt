@@ -1,0 +1,16 @@
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\testprogramming\bin\Debug\net5.0\testprogramming.exe
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\testprogramming\bin\Debug\net5.0\testprogramming.deps.json
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\testprogramming\bin\Debug\net5.0\testprogramming.runtimeconfig.json
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\testprogramming\bin\Debug\net5.0\testprogramming.runtimeconfig.dev.json
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\testprogramming\bin\Debug\net5.0\testprogramming.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\testprogramming\bin\Debug\net5.0\ref\testprogramming.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\testprogramming\bin\Debug\net5.0\testprogramming.pdb
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\testprogramming\obj\Debug\net5.0\testprogramming.csproj.AssemblyReference.cache
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\testprogramming\obj\Debug\net5.0\testprogramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\testprogramming\obj\Debug\net5.0\testprogramming.AssemblyInfoInputs.cache
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\testprogramming\obj\Debug\net5.0\testprogramming.AssemblyInfo.cs
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\testprogramming\obj\Debug\net5.0\testprogramming.csproj.CoreCompileInputs.cache
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\testprogramming\obj\Debug\net5.0\testprogramming.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\testprogramming\obj\Debug\net5.0\ref\testprogramming.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\testprogramming\obj\Debug\net5.0\testprogramming.pdb
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\testprogramming\obj\Debug\net5.0\testprogramming.genruntimeconfig.cache

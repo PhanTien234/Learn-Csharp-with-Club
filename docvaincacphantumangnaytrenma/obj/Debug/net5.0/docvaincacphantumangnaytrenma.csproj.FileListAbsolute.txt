@@ -1,0 +1,16 @@
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\docvaincacphantumangnaytrenma\bin\Debug\net5.0\docvaincacphantumangnaytrenma.exe
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\docvaincacphantumangnaytrenma\bin\Debug\net5.0\docvaincacphantumangnaytrenma.deps.json
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\docvaincacphantumangnaytrenma\bin\Debug\net5.0\docvaincacphantumangnaytrenma.runtimeconfig.json
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\docvaincacphantumangnaytrenma\bin\Debug\net5.0\docvaincacphantumangnaytrenma.runtimeconfig.dev.json
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\docvaincacphantumangnaytrenma\bin\Debug\net5.0\docvaincacphantumangnaytrenma.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\docvaincacphantumangnaytrenma\bin\Debug\net5.0\ref\docvaincacphantumangnaytrenma.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\docvaincacphantumangnaytrenma\bin\Debug\net5.0\docvaincacphantumangnaytrenma.pdb
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\docvaincacphantumangnaytrenma\obj\Debug\net5.0\docvaincacphantumangnaytrenma.csproj.AssemblyReference.cache
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\docvaincacphantumangnaytrenma\obj\Debug\net5.0\docvaincacphantumangnaytrenma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\docvaincacphantumangnaytrenma\obj\Debug\net5.0\docvaincacphantumangnaytrenma.AssemblyInfoInputs.cache
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\docvaincacphantumangnaytrenma\obj\Debug\net5.0\docvaincacphantumangnaytrenma.AssemblyInfo.cs
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\docvaincacphantumangnaytrenma\obj\Debug\net5.0\docvaincacphantumangnaytrenma.csproj.CoreCompileInputs.cache
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\docvaincacphantumangnaytrenma\obj\Debug\net5.0\docvaincacphantumangnaytrenma.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\docvaincacphantumangnaytrenma\obj\Debug\net5.0\ref\docvaincacphantumangnaytrenma.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\docvaincacphantumangnaytrenma\obj\Debug\net5.0\docvaincacphantumangnaytrenma.pdb
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\docvaincacphantumangnaytrenma\obj\Debug\net5.0\docvaincacphantumangnaytrenma.genruntimeconfig.cache

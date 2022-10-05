@@ -1,0 +1,16 @@
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\hoa don thanh toan tien dien\bin\Debug\net5.0\hoa don thanh toan tien dien.exe
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\hoa don thanh toan tien dien\bin\Debug\net5.0\hoa don thanh toan tien dien.deps.json
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\hoa don thanh toan tien dien\bin\Debug\net5.0\hoa don thanh toan tien dien.runtimeconfig.json
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\hoa don thanh toan tien dien\bin\Debug\net5.0\hoa don thanh toan tien dien.runtimeconfig.dev.json
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\hoa don thanh toan tien dien\bin\Debug\net5.0\hoa don thanh toan tien dien.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\hoa don thanh toan tien dien\bin\Debug\net5.0\ref\hoa don thanh toan tien dien.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\hoa don thanh toan tien dien\bin\Debug\net5.0\hoa don thanh toan tien dien.pdb
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\hoa don thanh toan tien dien\obj\Debug\net5.0\hoa don thanh toan tien dien.csproj.AssemblyReference.cache
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\hoa don thanh toan tien dien\obj\Debug\net5.0\hoa don thanh toan tien dien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\hoa don thanh toan tien dien\obj\Debug\net5.0\hoa don thanh toan tien dien.AssemblyInfoInputs.cache
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\hoa don thanh toan tien dien\obj\Debug\net5.0\hoa don thanh toan tien dien.AssemblyInfo.cs
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\hoa don thanh toan tien dien\obj\Debug\net5.0\hoa don thanh toan tien dien.csproj.CoreCompileInputs.cache
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\hoa don thanh toan tien dien\obj\Debug\net5.0\hoa don thanh toan tien dien.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\hoa don thanh toan tien dien\obj\Debug\net5.0\ref\hoa don thanh toan tien dien.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\hoa don thanh toan tien dien\obj\Debug\net5.0\hoa don thanh toan tien dien.pdb
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\clb\hoa don thanh toan tien dien\obj\Debug\net5.0\hoa don thanh toan tien dien.genruntimeconfig.cache
